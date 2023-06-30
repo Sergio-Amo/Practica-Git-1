@@ -1,6 +1,6 @@
-*Git* nuestro
+Git nuestro
 
-Git nuestro que estas en los repos
+*Git* nuestro que estás en los repos
 
 Comprimidos sean tus *commits*
 
@@ -16,6 +16,6 @@ Como también perdonamos los de otros geeks
 
 No nos dejes caer en *detached HEAD*
 
-y libranos de *SVN*
+y líbranos de *SVN*
 
 `git commit --amend`
