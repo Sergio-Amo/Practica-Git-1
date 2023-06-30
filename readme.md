@@ -46,7 +46,7 @@ Para dibujar el diagrama se puede utilizar `git log --oneline --all --graph` est
 
 Usando alias y parámetros como `--decorate` y `--format` se pueden obtener outputs personalizados que modifiquen la cantidad y la forma en que se muestra la información, por ejemplo:
 
-images/step25.png
+![alt text](https://raw.githubusercontent.com/Sergio-Amo/practica-git-1/main/images/step25.png)
 
 ## El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
